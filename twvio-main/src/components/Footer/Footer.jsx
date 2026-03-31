@@ -53,11 +53,11 @@ Download Successful
  
  <Footers>
    <Wrapper>
-   <Small>&copy;2021 <strong>Twvio By Yasin</strong>, Made with ❤️</Small>
+   <Small>&copy;2021 <strong>Twvio By Shnwaz</strong>, Made with ❤️</Small>
    <FooterNav>
-  <FooterLink href="https://github.com/awesome-yasin">Github Link</FooterLink>
-  <FooterLink href="https://www.instagram.com/yasinn.0x/">Instagram Link</FooterLink>
-  <FooterLink href="https://github.com/awesome-yasin">Other Awesome Projects</FooterLink>
+  <FooterLink href="https://github.com/SHNWAZX">Github Link</FooterLink>
+  <FooterLink href="https://www.instagram.com/shnwazdeveloperx">Instagram Link</FooterLink>
+  <FooterLink href="https://github.com/SHNWAZX">Other Awesome Projects</FooterLink>
    </FooterNav>
    </Wrapper>
  </Footers>
