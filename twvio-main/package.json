@@ -8,7 +8,7 @@
         "@testing-library/react": "^11.2.7",
         "@testing-library/user-event": "^12.8.3",
         "file-saver": "^2.0.5",
-        "file-type": "^17.1.1",
+        "file-type": "^21.3.2",
         "moment": "^2.29.1",
         "react": "^17.0.2",
         "react-dfb": "^1.0.4",
@@ -16,7 +16,7 @@
         "react-download-link": "^2.3.0",
         "react-h5-audio-player": "^3.8.1",
         "react-router-dom": "^5.2.0",
-        "react-scripts": "4.0.3",
+        "react-scripts": "5.0.1",
         "react-videoplayer": "^0.6.4",
         "styled-components": "^5.3.3",
         "video-player-for-react": "^1.0.7",
@@ -50,7 +50,7 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^3.2.3",
+        "gh-pages": "^6.3.0",
         "xxxxx": "^1.0.3"
     }
 }
